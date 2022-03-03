@@ -106,4 +106,23 @@ table{
     margin-left: -3;
     
     }
+    textarea{
+      position:sticky;
+      
+        font-size: 9pt;
+        border-color: currentcolor;
+        outline-color: currentcolor;
+        background-color: transparent;
+        background-image: none;
+        overflow: auto;
+        width:  30%;
+        padding: 0;
+        border: none;
+        resize: none;
+        overflow: hidden;
+          outline:0px !important;
+          -webkit-appearance:none;
+          box-shadow: none !important;
+          color: white
+      }
   }
